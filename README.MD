@@ -1,6 +1,6 @@
 # NLW E-sports
 
->Trilha NLW
+> Trilha NLW
 
 ![preview](./.github/preview.png)
 
